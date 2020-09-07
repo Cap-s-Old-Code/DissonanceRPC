@@ -1,0 +1,16 @@
+{
+  "name": "dissonancerpc",
+  "version": "1.0.0",
+  "description": "RPC DJS app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "c4ppucc1n0",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.0.1",
+    "electron": "^3.0.8",
+    "ps-node": "^0.1.6"
+  }
+}
